@@ -1,2 +1,2 @@
-!.meteor
-settings.json
+config.js
+node_modules
